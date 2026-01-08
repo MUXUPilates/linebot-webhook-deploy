@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+linebot_env/
+env/
+venv/
+ENV/
+*.log
+.DS_Store
+.env
+.cache/
